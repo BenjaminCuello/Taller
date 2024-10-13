@@ -1,5 +1,5 @@
-Taller
-Resumen:
+# Taller
+# Resumen:
 Este proyecto consiste en implementar un sistema de gestión bibliográfica que permite la creación y gestión de objetos como libros, revistas y usuarios.
 En los txt, no vienen ningun objeto tipo libro, revista o usuario por defecto, pero siguen esta estructura al guardar o cargar en los txt:
 Material bibliografico:
@@ -9,7 +9,7 @@ Usuario:
 nombreUsuario,idUsuario,0
 nombreUsuario,idUsuario,n,isbn1,isbn2,...,isbnN
 
-Información del equipo de trabajo:
+# Información del equipo de trabajo:
   - Benjamín Ignacio Cuello Cuello
   - RUT: 21.682.135-1
   - Correo institucional: benjamin.cuello@alumnos.ucn.cl
