@@ -1,5 +1,5 @@
-# Taller
-# Resumen:
+
+# Taller de estructura :
 Este proyecto consiste en implementar un sistema de gestión bibliográfica que permite la creación y gestión de objetos como libros, revistas y usuarios.
 En los txt, no vienen ningun objeto tipo libro, revista o usuario por defecto, pero siguen esta estructura al guardar o cargar en los txt:
 Material bibliografico:
