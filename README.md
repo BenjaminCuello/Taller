@@ -23,4 +23,4 @@ Requisitos:
 
 Para compilar el código:
 ```bash
-g++ main.cpp App.cpp Libro.cpp Revista.cpp Sistema.cpp Usuario.cpp -o PROYECTOS_UCN_C__.exe
+g++ main.cpp App.cpp Libro.cpp Revista.cpp Sistema.cpp Usuario.cpp MaterialBibliografico.cpp -o PROYECTOS_UCN_C__.exe
